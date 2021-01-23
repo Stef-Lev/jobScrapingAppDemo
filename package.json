@@ -1,0 +1,20 @@
+{
+  "name": "scraplinkedin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrap": "node scraper.js",
+    "mockDb": "json-server --watch jobsDatabase.json --port 8021"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "json-server": "^0.16.3",
+    "linkedin-jobs-scraper": "^5.5.0",
+    "nodemon": "^2.0.7"
+  }
+}
