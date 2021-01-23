@@ -1,5 +1,7 @@
 # Job Scraper Proof of Concept
 
+![Screenshot](scrap-poc.png)
+
 ## Installation
 
 Run *npm install* to install all dependencies
