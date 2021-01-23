@@ -3,7 +3,7 @@
 const config = {
     position: 'Web Developer',
     locations: ['Athens', 'Patras'],
-    queryLimit: 10
+    queryLimit: 20
 }
 
 module.exports = config;

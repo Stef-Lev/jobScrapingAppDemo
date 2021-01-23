@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scrap": "node scraper.js",
-    "mockDb": "json-server --watch jobsDatabase.json --port 8021"
+    "mockDb": "json-server --watch mockData.json --port 8021"
   },
   "author": "",
   "license": "ISC",
