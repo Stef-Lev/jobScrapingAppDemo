@@ -1,4 +1,4 @@
-# Job Scraper Proof of Concept
+# Job Scraper Demo
 
 ![Screenshot](preview.png)
 
