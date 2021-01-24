@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scrap": "node scraper.js",
-    "mockDb": "json-server --watch mockData.json --port 8021"
+    "mockDb": "json-server --watch mockData.json --port 8021",
+    "appSrv": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,6 +16,7 @@
     "express": "^4.17.1",
     "json-server": "^0.16.3",
     "linkedin-jobs-scraper": "^5.5.0",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "open": "^7.3.1"
   }
 }
